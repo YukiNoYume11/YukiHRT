@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+.tools/
+*.iml
+.DS_Store
+
+# 签名材料：绝不提交
+keystore.properties
+keystore/
+*.jks
+*.keystore
+.keystore_pw_tmp
